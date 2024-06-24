@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KPSL13
 - 👀 I’m interested in ... CONTRIBUTING!
-- 🌱 I’m currently learning Java, SpringBoot, React.
-- 💞️ I’m looking to collaborate on any and all opportunities that I'm given a chance for.
+- 🌱 I’m currently learning the languages Java, Python, SQL, and Javascript, and the frameworks and technologies such as React, PostgreSQL.
+- 💞️ I’m looking to collaborate on any and all opportunities that can net me some positive hands on experience.
 - 📫 How to reach me ... 
 
 <!---
